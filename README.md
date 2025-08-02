@@ -3,14 +3,7 @@
 
 Welcome to my personal portfolio website! I am **Millicent Nabututu Makokha**, an aspiring Cybersecurity Specialist with a background in Journalism and Mass Communication. I am currently studying Software Development at **Power Learn Project Academy**.
 
-This portfolio showcases my journey from media to tech, highlighting my skills, projects, and passion for technology and storytelling.
-
----
-
-## 🔗 Live Website
-
-View my portfolio live at:  
-👉 [https://milliecandie.github.io/portfolio](https://milliecandie.github.io/portfolio)
+This portfolio showcases my journey from media to tech, highlighting my skills, projects, and passion for technology and storytelling
 
 ---
 
@@ -21,9 +14,7 @@ View my portfolio live at:
 - **Skills** – HTML, CSS, Python, Communication, and more  
 - **Projects** – Links to projects hosted on GitHub  
 - **Downloadable CV** – Direct link to my resume in PDF format  
-- **Contact** – Email, GitHub, and LinkedIn
-
----
+- **Contact** – Email, GitHub, and Lin
 
 ## 💼 Projects
 
@@ -32,13 +23,6 @@ View my portfolio live at:
 
 2. [💬 Tech Quotes](https://github.com/milliecandie/tech_quotes)  
    An inspirational web wall displaying quotes for coders and tech lovers.
-
----
-
-## 📥 Download My CV
-
-You can download my resume directly from the website or here:  
-👉 [Millicent_Makokha_CV.pdf](Millicent_Makokha_CV.pdf)
 
 ---
 
